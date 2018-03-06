@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: 'Hi, I''m Elena'
 permalink: /about/
 published: true
 ---
-Elena's Corner
+<img src="\assets\images\logo-composer-transparent.png">
 
-I'm a junior web developer with a computer science degree. I have 3 years of experience with WordPress, Joomla, Shopify, Spree Commerce, and other platforms.
+I'm a junior web developer with a computer science degree. 
+
+I have 3 years of experience with WordPress, Joomla, Shopify, Spree Commerce, and other platforms.
 
 I have created over 30 websites, most of which required custom designed plugins, extensions, and themes
 
