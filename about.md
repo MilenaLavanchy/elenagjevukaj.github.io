@@ -12,4 +12,6 @@ I have created over 30 websites, most of which required custom designed plugins,
 
 My aim has always been to produce websites that look beautiful and professional, are highly functional, load quickly, and are Search Engine optimized.
 
+
+
 <img src="\assets\images\logo-composer-transparent.png">
