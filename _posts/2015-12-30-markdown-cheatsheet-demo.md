@@ -7,8 +7,6 @@ keywords: 'markdown, typography components, dummy content'
 published: true
 ---
 
-## Typography Elements in One
-
 <img src="\assets\images\IMG_20180306_183729.png">
 A Bug Squashing Party is  a come-together (either virtual or real life) of Debian Developers and Debian enthusiasts on a specified timeframe where these persons try to fix as many bugs as possible.
 
@@ -28,8 +26,3 @@ For me it was the first time in OpenLabs and I must say It was and amazing time 
 ![Minion](http://octodex.github.com/images/minion.png)
 
 ---
-Footnote:
-
-[^1]: 1: Footnote number one yeah baby!
-
-[^2]: 2: A footnote you can link to - [click here!](#)
