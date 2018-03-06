@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Markdown Cheatsheet Demo"
+title: event2
 comments: true
-description: "Markdown Cheatsheet Demo..."
-keywords: "markdown, typography components, dummy content"
+description: Markdown Cheatsheet Demo...
+keywords: 'markdown, typography components, dummy content'
+published: true
 ---
 
 ## Typography Elements in One
