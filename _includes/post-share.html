@@ -1,13 +1,3 @@
-<h1 class="entry-title">
-{% if page.title %}
-    <a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a>
-{% endif %}
-{% if post.title %}
-    <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-{% endif %}
-</h1>
-<div class="entry-content">{{ content }}</div>
-
 <aside class="share">
 
   <p>If you liked this article and think others should read it, please <a href="http://twitter.com/share?text={{page.title}}&amp;url={{ site.url }}{{ page.url }}&amp;via={{ site.twitter_username }}"
