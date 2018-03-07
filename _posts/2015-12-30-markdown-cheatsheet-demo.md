@@ -24,7 +24,7 @@ In the evning we had a nice dinner, in an italian resturant in Tirana.
 
 Discovering Tirana. 
 <img src="\assets\images\IMG_20180304_114027.jpg">
-<img src="\assets\images\IMG_20180306_183729.png">  
+
 
 <div class="divider"></div>
 
