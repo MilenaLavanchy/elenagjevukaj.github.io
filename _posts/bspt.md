@@ -18,6 +18,7 @@ We were a large group of computer science, students and graduates coming from Ko
 For me it was the first time in OpenLabs and I must say It was and amazing time meeting the organizers and members and working with them.
 <img src="\assets\images\ARP2148.jpg">
 After the presentation about the Openlabs and it's events we had some interesting topics and projects that we could choose. Mainly I worked with other girls into translating some parts of Debian text to albanian, also we did some research for bugs.
+<img src="\assets\images\1024px-ARP2076.jpg">  
 
 In the evning we had a nice dinner, in an italian resturant in Tirana. 
 <img src="\assets\images\received_10215234012913723.jpeg">
