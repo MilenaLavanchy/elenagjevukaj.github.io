@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 <img src="\assets\images\IMG_20180306_183729.png">  
 A Bug Squashing Party was organized  by Debian and OpenLabs in Tirana last weekend (3,4 March 2018). BSP is a come-together of Debian Developers and Debian enthusiasts on a specified timeframe where these persons try to fix as many bugs as possible.
