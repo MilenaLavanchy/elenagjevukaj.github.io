@@ -1,4 +1,6 @@
-
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
 # SEO settings
 title: "Elena's"
 title2: " Corner" 
