@@ -1,12 +1,10 @@
 theme: jekyll-theme-slate
-plugins:
-  - jekyll-feed
 # SEO settings
 title: "Elena's"
 title2: " Corner" 
 description: 
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url:  http://elenagjevukaj.github.io/ # site url
+url:  https://elenagjevukaj.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
@@ -47,8 +45,8 @@ twitter_card: "summary_large_image"
 twitter_site: "@HeiswayiNrird"
 
 gems:
-  - bourbon
   - jekyll-paginate
+  - jekyll-feed
 
 # navbar pages
 navbar:
