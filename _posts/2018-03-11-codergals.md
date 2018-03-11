@@ -6,7 +6,7 @@ comments: true
 description: CoderGals Hackathon
 keywords: 'markdown, typography components, dummy content'
 published: true
-
+---
 <img src="https://elenagjevukaj.github.io/assets/images/20708297_141895606405235_6461713773095992346_n.png">
 
 CODERGALS hackathon was organized for the first time in my country. This event took place in the beuatiful city of Prizren. 
