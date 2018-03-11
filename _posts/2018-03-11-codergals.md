@@ -33,4 +33,4 @@ https://github.com/vjosash/js-commmunicator-plugin
 
 
 
-[linked phrase](www.bit.ly/1EqAdIp) #no space, no {r}
+[linked phrase](https://github.com/vjosash/js-commmunicator-plugin) #no space, no {r}
