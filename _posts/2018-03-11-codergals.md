@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CoderGals Hackathon
-date:  12:04:01 +0100
+date:  10:23:01 +0100
 comments: true
 description: CoderGals Hackathon
 keywords: 'markdown, typography components, dummy content'
