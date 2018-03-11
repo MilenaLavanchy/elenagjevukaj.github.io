@@ -18,13 +18,14 @@ Thanks to them, we had the chance to work on exciting projects as well as be men
 We brainstormed for about 3-4 hours to decide for the project. We discussed many ideas that ranged from Doppler effect to GUI interfaces for phone calls. Finally we ended up making an project for linking the PC with your phone so it will ease the procedure not to use both when you need to add a contact, make a call or even sent text messages.
 We called it Phone Client project. 
 
+<img src="https://elenagjevukaj.github.io/assets/images/Codergals_prizren-770x513.jpg">
+
 You can check our work online:
 
 Phone Client 
 (https://github.com/egzonar/PhoneClient)
 It was a challenge for us because we worked for the first time on Debian OS.
 
-<img src="https://elenagjevukaj.github.io/assets/images/Codergals_prizren-770x513.jpg">
 Project that other girls worked on: 
 https://github.com/dhurataK/codergals
 https://github.com/shejza/phonevideocall
@@ -33,4 +34,4 @@ https://github.com/vjosash/js-commmunicator-plugin
 
 
 
-[linked phrase](https://github.com/vjosash/js-commmunicator-plugin) #no space, no {r}
+[https://github.com/vjosash/js-commmunicator-plugin](https://github.com/vjosash/js-commmunicator-plugin) 
