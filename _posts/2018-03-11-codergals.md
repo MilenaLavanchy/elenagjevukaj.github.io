@@ -23,15 +23,10 @@ We called it Phone Client project.
 You can check our work online:
 
 Phone Client 
-(https://github.com/egzonar/PhoneClient)
+[https://github.com/egzonar/PhoneClient](https://github.com/egzonar/PhoneClient)
 It was a challenge for us because we worked for the first time on Debian OS.
 
 Project that other girls worked on: 
-https://github.com/dhurataK/codergals
-https://github.com/shejza/phonevideocall
-https://github.com/vjosash/js-commmunicator-plugin
-
-
-
-
+[https://github.com/dhurataK/codergals](https://github.com/dhurataK/codergals)
+[https://github.com/shejza/phonevideocall](https://github.com/shejza/phonevideocall)
 [https://github.com/vjosash/js-commmunicator-plugin](https://github.com/vjosash/js-commmunicator-plugin) 
