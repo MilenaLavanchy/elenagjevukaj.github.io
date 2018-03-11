@@ -24,10 +24,13 @@ Phone Client
 (https://github.com/egzonar/PhoneClient)
 It was a challenge for us because we worked for the first time on Debian OS.
 
+<img src="https://elenagjevukaj.github.io/assets/images/Codergals_prizren-770x513.jpg">
 Project that other girls worked on: 
-
 https://github.com/dhurataK/codergals
 https://github.com/shejza/phonevideocall
 https://github.com/vjosash/js-commmunicator-plugin
 
-<img src="https://elenagjevukaj.github.io/assets/images/Codergals_prizren-770x513.jpg">
+
+
+
+[linked phrase](www.bit.ly/1EqAdIp) #no space, no {r}
