@@ -2,7 +2,6 @@ theme: jekyll-theme-slate
 # SEO settings
 title: "Elena's"
 title2: " Corner" 
-description: 
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url:  https://elenagjevukaj.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
