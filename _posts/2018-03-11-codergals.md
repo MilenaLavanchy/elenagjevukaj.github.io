@@ -11,7 +11,8 @@ published: true
 <img src="https://elenagjevukaj.github.io/assets/images/20708297_141895606405235_6461713773095992346_n.png">
 
 CoderGals Hackathon was organized for the first time in my country. This event took place in the beautiful city of Prizren. 
-CoderGals, an event held for 24 to 48 hours, was an idea which started from two girls majoring in Computer Science, Qendresa and Albiona Hoti. 
+This hackathon held for 24 to 48 hours, was an idea which started from two girls majoring in Computer Science, Qendresa and Albiona Hoti. 
+
 Thanks to them, we had the chance to work on exciting projects as well as be mentored by key tech people including: Mergim Cahani, Daniel Pocock, Taulant Mehmeti, Mergim Krasniqi, Kolos Pukaj, Bujar Dervishaj, Arta Shehu Zaimi and Edon Bajrami.
 <img src="https://elenagjevukaj.github.io/assets/images/Codergals_2.jpg">
 
