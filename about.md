@@ -4,7 +4,7 @@ title: 'Hi, I''m Elena'
 permalink: /about/
 published: true
 ---
-I'm a junior web developer with a computer science degree. 
+I'm a junior web developer majoring in computer science. 
 
 I have 3 years of experience with WordPress, Joomla, Shopify, Spree Commerce, and other platforms.
 
