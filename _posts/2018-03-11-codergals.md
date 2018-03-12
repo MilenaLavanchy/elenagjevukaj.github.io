@@ -29,7 +29,7 @@ Phone Client
 
 It was a challenge for us because we worked for the first time on Debian OS.
 
-Project that other girls worked on: 
+Projects that other girls worked on: 
 
 [https://github.com/dhurataK/codergals](https://github.com/dhurataK/codergals)
 
