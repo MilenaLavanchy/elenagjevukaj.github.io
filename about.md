@@ -11,4 +11,4 @@ I like exploring the diversity of functional areas, thus,  fostering a higher de
 
 
 
-<img src="\assets\images\logo-composer-transparent.png">
+<img src="\assets\images\giphy.gif">
