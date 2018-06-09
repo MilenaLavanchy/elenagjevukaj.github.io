@@ -1,14 +1,14 @@
 theme: jekyll-theme-slate
 # SEO settings
-title: "Elena's"
-title2: " Corner" 
+title: "Milena's"
+title2: "Set of elements " 
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url:  https://elenagjevukaj.github.io # site url
+url:  https://milenalavanchy.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: https://github.com/ElenaGjevukaj/elenagjevukaj.github.io/
+repo: https://github.com/MilenaLavanchy/milenalavanchy.github.io/
 disqus_shortname: "hnbloggithub"
 twitter_username: "HeiswayiNrird"
 comments: true
@@ -28,15 +28,15 @@ sass:
 
 # Author settings
 author:
-  name     : "Elena Gjevukaj"
-  job      : "Web Developer"
+  name     : "Milena Lavanchy"
+  job      : "Explorer"
   bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
   thumb    : /images/author.jpg
-  email    : gjevukaje@gmail.com
+  email    : milena.lavanchy@gmail.com
   url      : http://heiswayi.github.io
-  github   : http://github.com/elenagjevukaj
-  twitter  : http://twitter.com/elenagjevukaj
-  linkedin : http://linkedin.com/elenagjevukaj
+  github   : http://github.com/milenalavanchy
+#twitter  : http://twitter.com/
+#linkedin : http://linkedin.com/
 
 # social settings
 og_locale: "en_US"
