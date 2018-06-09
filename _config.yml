@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 # SEO settings
 title: "Milena's"
-title2: "Set of elements " 
+title2: " Set of elements " 
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url:  https://milenalavanchy.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
@@ -29,7 +29,7 @@ sass:
 # Author settings
 author:
   name     : "Milena Lavanchy"
-  job      : "Explorer"
+  job      : "n Explorer"
   bio      : "My place is where my heart belongs to and I'm excited to explore its lands and waters :)"
   thumb    : /images/author.jpg
   email    : milena.lavanchy@gmail.com
