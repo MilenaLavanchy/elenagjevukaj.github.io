@@ -14,7 +14,7 @@ My main areas of interests are technology, compliance, and art. I have experienc
 
 Also, I'd like to share with you my interests in the use of free software and radio systems.
 
-<img src="https://milenalavanchy.github.io/assets/images/giphy.gif">
+<img src="https://milenalavanchy.github.io/assets/images/radio.JPG">
 
 Moreover I am particularly interested in development of my public speaking skills at Toastmasters.
 
