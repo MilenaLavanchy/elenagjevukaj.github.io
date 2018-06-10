@@ -6,7 +6,7 @@ published: true
 ---
 My place is where my heart belongs to and I'm excited to explore its lands and waters :)
 
-I like 
+Things which make me happy, that I can spend hours doing:
 * exploring the diversity of functional areas, thus,  fostering a higher degree of technical and functional versatility, while refining a sense of relationship.
 * comparing, contrasting, and combining creative ideas to develop insights and alternative possibilities
 
