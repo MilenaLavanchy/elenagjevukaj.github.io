@@ -8,7 +8,11 @@ My place is where my heart belongs to and I'm excited to explore its lands and w
 
 I like 
 * exploring the diversity of functional areas, thus,  fostering a higher degree of technical and functional versatility, while refining a sense of relationship.
-* comparing, contrasting, and combining creative ideas to to develop insights and alternative possibilities
+* comparing, contrasting, and combining creative ideas to develop insights and alternative possibilities
+
+My main areas of expertise include UX/UI Design and Application Development, Application Support, Requirement management, Client Support and Problem Solving.
+
+Also I am particularly interested in development of my public speaking skills at Toastmasters.
 
 <img src="https://milenalavanchy.github.io/assets/images/giphy.gif">
 
