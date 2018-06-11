@@ -11,8 +11,8 @@ published: true
 Gpredict: Free, Real-Time Satellite Tracking and Orbit Prediction Software
 
 GQRX:	Gqrx is a software defined radio receiver powered by GNU Radio and the Qt GUI toolkit. It can process I/Q data from RTL-based USB dongles, Funcube Dongle (FCD), Universal Software Radio Peripheral (USRP), and many other devices.
-<img src="https://milenalavanchy.github.io/assets/images/gqrx recording signals.png">
+<img src="https://milenalavanchy.github.io/assets/images/gqrx.jpg">
 
 GQRX using with Gpredict
 
-<img src="https://milenalavanchy.github.io/assets/images/gqrx_gpred1.jpg.png">
+<img src="https://milenalavanchy.github.io/assets/images/gqrx_gpred1.jpg.jpg">
