@@ -10,7 +10,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 google_analytics: UA-XXXXX-XX
 repo: https://github.com/MilenaLavanchy/milenalavanchy.github.io/
 disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+# twitter_username: "HeiswayiNrird"
 comments: true
 
 # Build settings
