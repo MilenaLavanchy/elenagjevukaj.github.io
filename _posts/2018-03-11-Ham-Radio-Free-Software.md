@@ -16,4 +16,4 @@ GQRX:	Gqrx is a software defined radio receiver powered by GNU Radio and the Qt 
 
 GQRX using with Gpredict
 
-<img src="https://milenalavanchy.github.io/assets/images/gqrx_gpred1.jpg.jpg">
+<img src="https://milenalavanchy.github.io/assets/images/gqrx_gpred1.jpg">
