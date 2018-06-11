@@ -7,6 +7,7 @@ description: Ham Radio Free Software
 keywords: 'satelite, tracking, free software'
 published: true
 ---
+Get the taste of free software :) 
 
 Gpredict: Free, Real-Time Satellite Tracking and Orbit Prediction Software
 
