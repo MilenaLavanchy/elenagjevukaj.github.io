@@ -8,6 +8,7 @@ keywords: 'antenna, satellite, digital communication'
 published: true
 ---
 
+Get the taste of ham radio :)
 
 <img src="https://milenalavanchy.github.io/assets/images/radio community.gif">
 You may have fun in joining the local radio community, the enjoyment of international radio contacts, or the adventure of operating from the field or mountain top with portable equipment. You may relish building your own circuits and antennas, experimenting with digital communication modes,  or you may explore at least few of the many diverse aspects that ham radio offers, learning along the way.
