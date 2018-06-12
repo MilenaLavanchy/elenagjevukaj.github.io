@@ -4,7 +4,7 @@ title: 'Hi, I''m Milena'
 permalink: /about/
 published: true
 ---
-<img src="https://milenalavanchy.github.io/assets/images/snimka.xcf">
+<img src="https://milenalavanchy.github.io/assets/images/image-about.jpg">
 My place is where my heart belongs to and I'm excited to explore its lands and waters :)
 
 Things which make me happy, that I can spend hours doing:
