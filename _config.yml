@@ -3,7 +3,7 @@ theme: jekyll-theme-slate
 title: "Milena's"
 title2: " Set of elements " 
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url:  https://milenalavanchy.github.io3 # site url
+url:  https://milenalavanchy.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
